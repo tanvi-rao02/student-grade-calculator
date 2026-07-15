@@ -53,7 +53,7 @@ must score at least 33 marks in every individual subject.
 - Streamlit
 
 ## Live Demo
-_Add your Streamlit Cloud link here after deployment._
+https://student-grade-calculator-faj.streamlit.app/
 
 ## Author
 Tanvi Rao
